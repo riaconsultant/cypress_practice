@@ -48,16 +48,12 @@
           "hash": "13044518069027839699"
         },
         {
-          "file": ".nx/cache/d/daemon.log",
-          "hash": "10149151298633137237"
-        },
-        {
           "file": ".nx/cache/d/server-process.json",
           "hash": "3223714834398702611"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "10747164416737767048"
+          "hash": "13496358949328960213"
         },
         {
           "file": ".nx/cache/lockfile.hash",
@@ -233,6 +229,26 @@
         {
           "file": "tsconfig.spec.json",
           "hash": "15575553540147145788"
+        },
+        {
+          "file": ".nx/cache/project-graph.json~4ae45166",
+          "hash": "12857458883686847877"
+        },
+        {
+          "file": ".nx/cache/project-graph.json~66108b02",
+          "hash": "12857458883686847877"
+        },
+        {
+          "file": ".nx/cache/project-graph.json~6d4770ad",
+          "hash": "12857458883686847877"
+        },
+        {
+          "file": ".nx/cache/project-graph.json~94ee153f",
+          "hash": "12857458883686847877"
+        },
+        {
+          "file": ".nx/cache/d/daemon.log",
+          "hash": "17492836006645594301"
         }
       ]
     }
